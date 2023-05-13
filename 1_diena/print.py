@@ -32,3 +32,8 @@ print("Šodien ir Muzeju Nakts 2023")
 print("=============== 4. veids ===============================")
 print("Šodien", "gribas", "iet", "ārā" "pastaigāties.", sep="\n\n", end="\n\n")
 print("Šodien ir Muzeju Nakts 2023")
+
+print("===============================================")
+print("===============================================")
+
+print("\\")
