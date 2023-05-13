@@ -26,7 +26,7 @@ print(type(vertejums)) # datu tips int - integer, jeb vesels skaitlis
 
 skaits = "5"
 print(skaits)
-print(type(skaits))
+print(type(skaits)) # datu tips str - string, jeb simbolu virkne
 
 attalums = 5.7
 print(attalums)
