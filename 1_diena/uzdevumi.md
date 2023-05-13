@@ -30,5 +30,4 @@ Dota temperatūra Celsija grādos 21, cik tas būs Fārenheiti?
 Dots riņķa līnijas diametrs 7, aprēķināt riņķa līnijas garumu.
 
 ## 11. uzdevums
-Izveidot dinamisku ievadi, iepriekš izstrādātajiem uzdevumiem.
-uzdevumi_mainigie.md un uzdevumi_matematika.md
+Izveidot dinamisku ievadi, iepriekš izstrādātajiem uzdevumiem. (no 7.uzd. līdz 10. uzd)
