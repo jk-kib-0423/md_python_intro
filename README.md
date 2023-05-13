@@ -1,1 +1,2 @@
-# md_python_intro
+# Python nodarbības
+## Autors: MD
