@@ -67,3 +67,7 @@ print(iepirkumi)
 iepirkumi[0], iepirkumi[2] = iepirkumi[2], iepirkumi[0]
 
 print(iepirkumi)
+
+
+
+print("_#_".join(iepirkumi))
